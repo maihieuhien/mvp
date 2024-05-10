@@ -1,0 +1,6 @@
+{
+  0: "The two questions are [MASK]",
+  1: "[SEP] First question is [MASK] to second question",
+  2: "Two [MASK] questions",
+  3: "[SEP] The two questions have [MASK] meanings",
+}

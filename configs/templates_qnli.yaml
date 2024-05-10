@@ -1,0 +1,5 @@
+{
+  0: "The question and answer are [MASK]",
+  1: "[SEP] The question is [MASK] to answer",
+  2: "[SEP] The question and answer have [MASK] meanings",
+}
